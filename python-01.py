@@ -1,4 +1,4 @@
-
+print('Salom GitHub')
 print( 'Salom Python ')
 #Bugun bizda yangi dars  bo'ladi!
                    # python-03. Print(), Sinteks va arifmetik amallar.
