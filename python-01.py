@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 19 09:37:29 2024
-
-@author: Hp
-"""
 
 print( 'Salom Python ')
 #Bugun bizda yangi dars  bo'ladi!
@@ -17,7 +11,7 @@ print(""" Bu dunyo o'tkinchi bu har doim unutma  ,
 print(' Bu dunyo o\'tkinchi bu har doim unutma  , '
       '\nHammasini unut va maqsading sari olg\'a bor!')        
                                
-                                      #SYNTAX ERROR !    
+                                    
                                       #Arifmetik amallar.
 print(8+9*8)
    #Bunda / bo'lish belgisi o'nlik sanoq sistemasida hisoblaydi!
@@ -43,7 +37,10 @@ print('9+9=', 9*2)
 
 # Aylana uzunligini topish formulasi==L=2*p*r , p=3,14 .
 
-                            # UYGA VAZIFA ! AMALIYOT. 2024 .q
+
+                            # UYGA VAZIFA ! AMALIYOT. 2024 .
+                            
+                            
 print('"Nexia", "Tico", "Damas" ko\'rganlar qilar havas')
 
 # Misol va masalalar yechimi va berilishi .
